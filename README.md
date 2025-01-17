@@ -1,8 +1,8 @@
 <!-- Centered Name & Subheader -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50" />
-  Rojo: Half-Gay Spaghetti Coder, Serving Hot Pasta Daily
-  <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
+  Rojo: Half-Fag Spaghetti Coder, Serving Hot Pasta Daily
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
 </h1>
 <h3 align="center">
   Married Man • Father of 1 • Two Yorkies Yapping • 
@@ -28,9 +28,15 @@
   </a>
   &nbsp;&nbsp;
 
-  <!-- GitHub Watchers Badge (for the default repo named 'rojolang' if it existed) -->
-  <a href="https://github.com/rojolang?tab=watchers" target="_blank">
-    <img src="https://img.shields.io/github/watchers/rojolang/rojolang?label=Watch&style=for-the-badge" alt="GitHub Watchers" />
+  <!-- GitHub Stars Badge (for a hypothetical repo 'HackMaster') -->
+  <a href="https://github.com/rojolang/HackMaster/stargazers" target="_blank">
+    <img src="https://img.shields.io/github/stars/rojolang/HackMaster?label=Stars&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub Forks Badge (for same hypothetical repo 'HackMaster') -->
+  <a href="https://github.com/rojolang/HackMaster/network/members" target="_blank">
+    <img src="https://img.shields.io/github/forks/rojolang/HackMaster?label=Forks&style=for-the-badge" alt="GitHub Forks" />
   </a>
 </p>
 
@@ -48,10 +54,9 @@
 - **Serving Hot Pasta Code**: Slapping GoLang, Python, and sometimes a dash of duct tape.  
 - **Hustles**: Real Estate deals, Airbnb automation, AI-driven bots, hardware hacks. If it makes money or breaks the rules, I’m in.  
 - **Phone System Hacking**: Low-level packet diving, reverse-engineering to beat IMS rate limits. Limits are for quitters.  
-- **A Subtle Hint**: We’ve been truckin’ along, but you best watch your step.  
+- **Attitude**: We’ve been truckin’ along, but you best watch your step.  
 - **No Big Deal**: I ain’t a coder, I just dev a lot.  
 - **Family**: Married, father of one tiny human, plus two yorkies who chew code like old bootlegs.  
-- **Identity**: Half gay. If you can’t hang with that, keep scrolling.
 
 ---
 
@@ -159,6 +164,21 @@
 
 ### Let’s Do This
 <p align="center">
+  <!-- More GitHub Badges -->
+  <a href="https://github.com/rojolang?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Projects-Rojo's%20Repos-blueviolet?style=for-the-badge&logo=github" alt="Rojo's Repos Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rojolang?tab=stars" target="_blank">
+    <img src="https://img.shields.io/badge/Stargazer-Here-yellow?style=for-the-badge&logo=github" alt="Rojo's Stars Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gist.github.com/rojolang" target="_blank">
+    <img src="https://img.shields.io/badge/Gists-Snippets-red?style=for-the-badge&logo=github" alt="Gists Badge"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/drrojo" target="_blank">
     <img src="https://img.shields.io/twitter/url?label=Twitter%20%40drrojo&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fdrrojo" alt="Twitter Badge"/>
   </a>
@@ -173,9 +193,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/d9CtIOE1Zr04K9HiTc/giphy.gif" width="200" />
 </p>
 
 <p align="center">
-  <strong>There's no limit when your code flows like hot sauce. If you don't vibe, keep on truckin'.</strong>
+  <strong>There's no limit when your code flows like hot sauce.<br>If you don't vibe, keep on truckin'.</strong>
 </p>
