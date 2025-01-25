@@ -122,9 +122,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacker GIF" width="600"/>
-</p>
-
-<p align="center">
   <strong>Keep on truckin' and remember: "Once in a while, you get shown the light in the strangest of places if you look at it right."</strong>
 </p>
