@@ -1,5 +1,5 @@
 <!-- Centered Name & Subheader -->
-<h1 align="center">Rojo: Half-Fag Spaghetti Coder, Serving Hot Pasta Daily</h1>
+<h1 align="center">Rojo: Spaghetti Coder, Serving Hot Pasta Daily</h1>
 <h3 align="center">
   Married Man • Father of 1 • Two Yorkies Yapping •<br/>
   Real Estate & Airbnb Automator • AI & Hardware Tinkerer
@@ -17,7 +17,7 @@
 - **A Subtle Hint**: We’ve been truckin’ along, but you best watch your step.
 - **No Big Deal**: I ain’t a coder, I just dev a lot.
 - **Family**: Married, father of one tiny human, plus two yorkies who chew code like old bootlegs.
-- **Identity**: Half-fag. If you can’t hang with that, keep scrolling.
+
 
 ---
 
