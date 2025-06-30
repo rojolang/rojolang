@@ -281,7 +281,8 @@ graph LR
   </table>
   
   <!-- If you have WakaTime set up, replace YOUR_WAKATIME_USERNAME with your actual username -->
-\<img src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" /> 
+<!-- WakaTime Coding Stats -->
+<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="ROJO's Coding Time Stats" />
 </div>
 
 <!-- Footer with Wave -->
