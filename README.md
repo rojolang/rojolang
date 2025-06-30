@@ -186,11 +186,7 @@ graph LR
 
 <div align="center">
   
-<!-- GitHub Stats Cards -->
-<p align="center">
-  <img align="center" width="47%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="ROJO's GitHub Stats" />
-  <img align="center" width="47%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="ROJO's Top Languages" />
-</p>
+
 
 <!-- Streak Stats -->
 <p align="center">
