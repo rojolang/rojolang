@@ -282,7 +282,7 @@ graph LR
   
   <!-- If you have WakaTime set up, replace YOUR_WAKATIME_USERNAME with your actual username -->
 <!-- WakaTime Coding Stats -->
-<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="ROJO's Coding Time Stats" />
+<figure><embed src="https://wakatime.com/share/@rojolang/0ac04d86-c2e8-4519-b309-c8ee4b2816f4.svg"></embed></figure>
 </div>
 
 <!-- Footer with Wave -->
