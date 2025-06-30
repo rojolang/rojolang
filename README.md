@@ -73,6 +73,7 @@ graph LR
     A --> G[sequenceinnovations.com]
     A --> H[rojoservicesllc.com]
     A --> I[9mercado.com]
+    A --> J[packagepr.com]
     
     style A fill:#FF6B6B,stroke:#fff,stroke-width:4px
     style B fill:#4ECDC4,stroke:#fff,stroke-width:2px
@@ -83,6 +84,7 @@ graph LR
     style G fill:#54A0FF,stroke:#fff,stroke-width:2px
     style H fill:#48DBFB,stroke:#fff,stroke-width:2px
     style I fill:#FD79A8,stroke:#fff,stroke-width:2px
+    style J fill:#A29BFE,stroke:#fff,stroke-width:2px
 ```
 
 </div>
@@ -130,6 +132,11 @@ graph LR
 <td><img src="https://img.shields.io/badge/🏡_Active-brightgreen?style=flat-square"/></td>
 </tr>
 <tr>
+<td><a href="http://packagepr.com"><img src="https://img.shields.io/badge/packagepr.com-A29BFE?style=for-the-badge&logo=fedex&logoColor=white"/></a></td>
+<td><em>Ship forwarding SaaS—Puerto Rico shipping solutions</em></td>
+<td><img src="https://img.shields.io/badge/📦_Active-brightgreen?style=flat-square"/></td>
+</tr>
+<tr>
 <td><a href="http://sequenceinnovations.com"><img src="https://img.shields.io/badge/sequenceinnovations.com-54A0FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a></td>
 <td><em>Code & design—bit twisting central</em></td>
 <td><img src="https://img.shields.io/badge/💻_Active-brightgreen?style=flat-square"/></td>
@@ -172,15 +179,6 @@ graph LR
 
 </div>
 
-<!-- NEW: 3D Contribution Calendar -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📅 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rojolang&theme=tokyonight" width="100%" />
-</div>
-
 <!-- Enhanced Stats Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -188,10 +186,14 @@ graph LR
 
 <div align="center">
   
-<!-- Stats Grid -->
+<!-- Main Stats Card with Private Repos -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&cache_seconds=1800" />
+</p>
+
+<!-- Language Stats Including Private Repos -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&cache_seconds=1800" />
 </p>
 
 <!-- Streak Stats with Custom Theme -->
@@ -200,21 +202,30 @@ graph LR
 </p>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rojolang&custom_title=ROJO's%20Contribution%20Graph%20(Including%20Private%20Repos!)&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rojolang&custom_title=ROJO's%20Contribution%20Graph%20(All%20Repos%20Activity)&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF" />
 
 </div>
 
-<!-- NEW: Coding Time Stats -->
-<div align="center">
-  <h3>⏰ Coding Time Distribution</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rojolang&theme=tokyonight&utcOffset=8" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rojolang&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rojolang&theme=tokyonight" />
-</div>
+<!-- Personal Metrics Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Trophy Section -->
+## 🚀 My Solo Empire Stats
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rojolang&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" />
+  
+  <!-- Custom Metrics Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Repos-90+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Private%20Projects-50+-4ECDC4?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lines%20of%20Code-1M+-45B7D1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Commits-10K+-FF9FF3?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Late%20Night%20Commits-60%25-FECA57?style=for-the-badge&logo=moon&logoColor=black" />
+    <img src="https://img.shields.io/badge/Projects%20Running-9-54A0FF?style=for-the-badge&logo=rocket&logoColor=white" />
+  </p>
+
 </div>
 
 <!-- Contribution Snake -->
@@ -223,48 +234,6 @@ graph LR
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojolang/rojolang/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rojolang/rojolang/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- NEW: Personal Coding Metrics -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Personal Coding Metrics
-
-<div align="center">
-  <h3>🚀 My Solo Empire Stats</h3>
-  
-  <!-- Repository Stats -->
-  <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/pin/?username=rojolang&repo=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <!-- Custom Metrics Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Total%20Repos-50+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Private%20Projects-40+-4ECDC4?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lines%20of%20Code-1M+-45B7D1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </p>
-  
-  <!-- Commit Activity Heatmap -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rojolang&theme=tokyonight&utcOffset=-4" />
-</div>
-
-<!-- Recent Activity -->
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-<br/>
-
-<!--START_SECTION:activity-->
-<!-- This section can be automated with GitHub Actions -->
-<!--END_SECTION:activity-->
-
-</details>
-
-<!-- Code Wars Stats -->
-<details>
-<summary>🥷 Coding Challenge Stats</summary>
-<br/>
-<div align="center">
-  <img src="https://www.codewars.com/users/rojolang/badges/large" alt="Codewars" />
-</div>
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -276,8 +245,7 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojo)
 [![Email](https://img.shields.io/badge/Email-rob@split--aces.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rob@split-aces.com)
 
-<br/>
-
+</div>
 
 <!-- Fun Facts Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
