@@ -186,23 +186,21 @@ graph LR
 
 <div align="center">
   
-<!-- Main Stats Card with Private Repos -->
+<!-- Combined Stats Layout -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&cache_seconds=1800" />
+  <a href="https://github.com/rojolang">
+    <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
+    <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" />
+  </a>
 </p>
 
-<!-- Language Stats Including Private Repos -->
+<!-- Streak Stats with Better Styling -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&cache_seconds=1800" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojolang&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&dates=FFFFFF&currStreakNum=4ECDC4&sideNums=FFFFFF&sideLabels=FF6B6B&stroke=0D1117&border=0D1117" />
 </p>
 
-<!-- Streak Stats Alternative from DenverCoder1 -->
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojolang&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B6B" />
-</p>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rojolang&custom_title=ROJO's%20Contribution%20Graph%20(All%20Repos%20Activity)&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF" />
+<!-- Activity Graph with Better Colors -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rojolang&custom_title=ROJO's%20Coding%20Activity%20-%20Where%20The%20Magic%20Happens&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area=true&area_color=4ECDC4" />
 
 </div>
 
@@ -226,8 +224,11 @@ graph LR
     <img src="https://img.shields.io/badge/Projects%20Running-9-54A0FF?style=for-the-badge&logo=rocket&logoColor=white" />
   </p>
 
-  <!-- Awesome GitHub Stats Alternative -->
-  <img width="60%" src="https://awesome-github-stats.azurewebsites.net/user-stats/rojolang?cardType=github&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" />
+  <!-- GitHub Profile Summary Cards -->
+  <p align="center">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rojolang&theme=tokyonight" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rojolang&theme=tokyonight&utcOffset=-4" />
+  </p>
 
 </div>
 
@@ -250,22 +251,25 @@ graph LR
 
 </div>
 
-<!-- ROJO's Quote Section -->
+<!-- Daily.dev Card -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 ROJO's Wisdom
+## 🎯 Currently Crushing
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>"Code is like pasta - throw it at the wall and see what sticks"</b><br/>
-        <i>- ROJO, probably at 3am</i>
+      <td align="center" width="50%">
+        <h3>🔥 This Week I'm On</h3>
+        <p>
+          <b>🏗️ Building:</b> 3 new Airbnb automations<br/>
+          <b>🔧 Breaking:</b> IMS rate limits (again)<br/>
+          <b>☕ Fuel:</b> 47 cups and counting<br/>
+          <b>🎵 Vibing:</b> Grateful Dead on repeat
+        </p>
       </td>
     </tr>
   </table>
