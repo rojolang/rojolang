@@ -282,7 +282,7 @@ graph LR
   
   <!-- If you have WakaTime set up, replace YOUR_WAKATIME_USERNAME with your actual username -->
 <!-- WakaTime Coding Stats -->https://wakatime.com/share/@rojolang/0ac04d86-c2e8-4519-b309-c8ee4b2816f4.svg
-<figure><<img src="https://wakatime.com/share/@rojolang/0ac04d86-c2e8-4519-b309-c8ee4b2816f4.svg">
+<img src="https://wakatime.com/share/@rojolang/0ac04d86-c2e8-4519-b309-c8ee4b2816f4.svg">
 </div>
 
 <!-- Footer with Wave -->
