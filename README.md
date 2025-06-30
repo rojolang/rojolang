@@ -196,9 +196,9 @@ graph LR
   <img height="180em" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&cache_seconds=1800" />
 </p>
 
-<!-- Streak Stats with Custom Theme -->
+<!-- Streak Stats Alternative from DenverCoder1 -->
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=rojolang&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&dates=FFFFFF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojolang&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FF6B6B" />
 </p>
 
 <!-- Activity Graph -->
@@ -226,6 +226,9 @@ graph LR
     <img src="https://img.shields.io/badge/Projects%20Running-9-54A0FF?style=for-the-badge&logo=rocket&logoColor=white" />
   </p>
 
+  <!-- Awesome GitHub Stats Alternative -->
+  <img width="60%" src="https://awesome-github-stats.azurewebsites.net/user-stats/rojolang?cardType=github&theme=tokyonight&preferLogin=false" alt="My Awesome Stats" />
+
 </div>
 
 <!-- Contribution Snake -->
@@ -247,13 +250,25 @@ graph LR
 
 </div>
 
-<!-- Fun Facts Section -->
+<!-- ROJO's Quote Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎲 Random Dev Facts
+## 💭 ROJO's Wisdom
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <b>"Code is like pasta - throw it at the wall and see what sticks"</b><br/>
+        <i>- ROJO, probably at 3am</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Footer with Wave -->
