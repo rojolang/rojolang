@@ -71,7 +71,8 @@ graph LR
     A --> E[boildata.io]
     A --> F[rojoholdingspr.com]
     A --> G[sequenceinnovations.com]
-    A --> H[split-aces.com]
+    A --> H[rojoservicesllc.com]
+    A --> I[9mercado.com]
     
     style A fill:#FF6B6B,stroke:#fff,stroke-width:4px
     style B fill:#4ECDC4,stroke:#fff,stroke-width:2px
@@ -81,6 +82,7 @@ graph LR
     style F fill:#FF9FF3,stroke:#fff,stroke-width:2px
     style G fill:#54A0FF,stroke:#fff,stroke-width:2px
     style H fill:#48DBFB,stroke:#fff,stroke-width:2px
+    style I fill:#FD79A8,stroke:#fff,stroke-width:2px
 ```
 
 </div>
@@ -123,14 +125,19 @@ graph LR
 <td><img src="https://img.shields.io/badge/🏠_Active-brightgreen?style=flat-square"/></td>
 </tr>
 <tr>
+<td><a href="http://9mercado.com"><img src="https://img.shields.io/badge/9mercado.com-FD79A8?style=for-the-badge&logo=airbnb&logoColor=white"/></a></td>
+<td><em>Current Airbnb automation project</em></td>
+<td><img src="https://img.shields.io/badge/🏡_Active-brightgreen?style=flat-square"/></td>
+</tr>
+<tr>
 <td><a href="http://sequenceinnovations.com"><img src="https://img.shields.io/badge/sequenceinnovations.com-54A0FF?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a></td>
 <td><em>Code & design—bit twisting central</em></td>
 <td><img src="https://img.shields.io/badge/💻_Active-brightgreen?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="http://split-aces.com"><img src="https://img.shields.io/badge/split--aces.com-48DBFB?style=for-the-badge&logo=salesforce&logoColor=white"/></a></td>
-<td><em>Marketing firm—if you can't sell it, split</em></td>
-<td><img src="https://img.shields.io/badge/🃏_Active-brightgreen?style=flat-square"/></td>
+<td><a href="http://rojoservicesllc.com"><img src="https://img.shields.io/badge/rojoservicesllc.com-48DBFB?style=for-the-badge&logo=salesforce&logoColor=white"/></a></td>
+<td><em>Services & consulting—making deals happen</em></td>
+<td><img src="https://img.shields.io/badge/💼_Active-brightgreen?style=flat-square"/></td>
 </tr>
 </tbody>
 </table>
@@ -217,14 +224,26 @@ graph LR
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rojolang/rojolang/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- NEW: Metrics Dashboard -->
+<!-- NEW: Personal Coding Metrics -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Detailed Metrics Dashboard
+## 📈 Personal Coding Metrics
 
 <div align="center">
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rojolang&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-  <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <h3>🚀 My Solo Empire Stats</h3>
+  
+  <!-- Repository Stats -->
+  <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/pin/?username=rojolang&repo=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  
+  <!-- Custom Metrics Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Total%20Repos-50+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Private%20Projects-40+-4ECDC4?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lines%20of%20Code-1M+-45B7D1?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </p>
+  
+  <!-- Commit Activity Heatmap -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rojolang&theme=tokyonight&utcOffset=-4" />
 </div>
 
 <!-- Recent Activity -->
@@ -255,10 +274,9 @@ graph LR
   
 [![Twitter](https://img.shields.io/badge/Twitter-@drrojo-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/drrojo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojo)
-[![Email](https://img.shields.io/badge/Email-rob@split-aces.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rob@split-aces.com)
+[![Email](https://img.shields.io/badge/Email-rob@split--aces.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rob@split-aces.com)
 
 <br/>
-
 
 
 <!-- Fun Facts Section -->
