@@ -186,21 +186,21 @@ graph LR
 
 <div align="center">
   
-<!-- Combined Stats Layout -->
+<!-- GitHub Stats Cards -->
 <p align="center">
-  <a href="https://github.com/rojolang">
-    <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" />
-    <img width="49%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" />
-  </a>
+  <img align="center" width="47%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api?username=rojolang&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF" alt="ROJO's GitHub Stats" />
+  <img align="center" width="47%" src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/top-langs/?username=rojolang&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=8" alt="ROJO's Top Languages" />
 </p>
 
-<!-- Streak Stats with Better Styling -->
+<!-- Streak Stats -->
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojolang&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&dates=FFFFFF&currStreakNum=4ECDC4&sideNums=FFFFFF&sideLabels=FF6B6B&stroke=0D1117&border=0D1117" />
+  <img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=rojolang&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FF6B6B&dates=FFFFFF&currStreakNum=4ECDC4&sideNums=FFFFFF&sideLabels=FF6B6B&stroke=0D1117&border=0D1117" alt="ROJO's Streak Stats" />
 </p>
 
-<!-- Activity Graph with Better Colors -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rojolang&custom_title=ROJO's%20Coding%20Activity%20-%20Where%20The%20Magic%20Happens&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area=true&area_color=4ECDC4" />
+<!-- Activity Graph -->
+<p align="center">
+  <img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rojolang&custom_title=ROJO's%20Coding%20Activity%20-%20Where%20The%20Magic%20Happens&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF&area=true&area_color=4ECDC4" alt="ROJO's Activity Graph" />
+</p>
 
 </div>
 
@@ -260,9 +260,6 @@ graph LR
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" />
-      </td>
-      <td align="center" width="50%">
         <h3>🔥 This Week I'm On</h3>
         <p>
           <b>🏗️ Building:</b> 3 new Airbnb automations<br/>
@@ -271,8 +268,20 @@ graph LR
           <b>🎵 Vibing:</b> Grateful Dead on repeat
         </p>
       </td>
+      <td align="center" width="50%">
+        <h3>⏱️ How I Spend My Time</h3>
+        <p>
+          <b>🌙 Night Owl:</b> 11pm - 4am prime time<br/>
+          <b>⚡ Languages:</b> Go, Python, TypeScript<br/>
+          <b>🔨 Current Stack:</b> Next.js + Supabase<br/>
+          <b>📱 Side Quest:</b> Arduino phone hacks
+        </p>
+      </td>
     </tr>
   </table>
+  
+  <!-- If you have WakaTime set up, replace YOUR_WAKATIME_USERNAME with your actual username -->
+\<img src="https://github-readme-stats-jksyljim2-rojos.vercel.app/api/wakatime?username=rojolang&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Wakatime Stats" /> 
 </div>
 
 <!-- Footer with Wave -->
